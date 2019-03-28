@@ -26,4 +26,5 @@ The technologies used are:
 ## Support and contact details
 Kindly contact me by emailing me at jamesgathuru001@gmail.com if you run into any issues or have questions, ideas or concerns.
 ### License
+MIT licence
 Copyright (c) 2019 JAMES GATHURU
