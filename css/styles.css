@@ -1,0 +1,80 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 300%;
+}
+h2 {
+  text-align: center;
+}
+.y {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+}
+.e{
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
+.img {
+  float: left;
+}
+.equi {
+  text-decoration: underline;
+  font-size: 300%
+  font-style: italic;
+}
+.i {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
+.isos{
+  text-decoration: underline;
+  font-size: 300%
+  font-style: italic;
+}
+.s {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
+.scal {
+  text-decoration: underline;
+  font-size: 300%
+  font-style: italic;
+}
+.w {
+  text-indent: inherit;
+  font-size: 200%;
+  font-family: sans-serif;
+  font-style: italic;
+}
+.rr {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: white;
+}.pp {
+  border: 2px solid green;
+  padding: 6px;
+  margin: 20px;
+  background-color: white;
+  text-indent: inherit;
+  font-size: 100%;
+  font-family: sans-serif;
+  font-style: italic;
+}
+.ee {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: orange;
+  text-indent: inherit;
+  font-size: 100%;
+  font-family: sans-serif;
+  font-style: italic;
+}
