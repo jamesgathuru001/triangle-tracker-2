@@ -8,7 +8,7 @@ Triangle Tracker takes the lengths of three sides and determines if they form a 
 ## Setup/Installation Requirements
 * git clone on this url https://github.com/jamesgathuru001/triangle-tracker-2.git
 * cd Triangle-Tracker
-* atom .
+* use atom .
 ## BDD
 This app is therefore expected to work as following:
 
