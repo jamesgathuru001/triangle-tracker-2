@@ -19,6 +19,7 @@ This app is therefore expected to work as following:
 | All sides are unequal  | 3 Sides       |    Scalene Triangle     |
 | Unrealistic sides      | 3 sides       |    Not a Triangle       |  
 ## Technologies Used
+The technologies used are:
 * HTML
 * Javascript
 * CSS
